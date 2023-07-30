@@ -1,0 +1,17 @@
+body {
+    font-family: Sans-serif;
+    height: 300vh;
+}
+
+.progress {
+    top: 10px;
+    left: 10px;
+    position: fixed;
+    background-color: white;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.content {
+    margin-top: 70px;
+}
